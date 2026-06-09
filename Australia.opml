@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Australian Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Australia" title="Australia">
+<outline text="Latest News and News Headlines | Daily Telegraph" title="Latest News and News Headlines | Daily Telegraph" type="rss" xmlUrl="https://www.dailytelegraph.com.au/news/breaking-news/rss"/>
+<outline text="Sydney Morning Herald - Latest News" title="Sydney Morning Herald - Latest News" type="rss" xmlUrl="https://www.smh.com.au/rss/feed.xml" />
+<outline text="Latest News and News Headlines | Herald Sun" title="Latest News and News Headlines | Herald Sun" type="rss" xmlUrl="https://www.heraldsun.com.au/news/breaking-news/rss" />
+<outline text="ABC News" title="ABC News" type="rss" xmlUrl="https://www.abc.net.au/news/feed/1948/rss.xml" />
+<outline text="The Age - Latest News" title="The Age - Latest News" type="rss" xmlUrl="https://www.theage.com.au/rss/feed.xml" />
+<outline text="The Courier Mail" title="The Courier Mail" type="rss" xmlUrl="https://www.couriermail.com.au/rss" />
+<outline text="PerthNow" title="PerthNow" type="rss" xmlUrl="https://www.perthnow.com.au/news/feed" />
+<outline text="The Canberra Times - Local News" title="The Canberra Times - Local News" type="rss" xmlUrl="https://www.canberratimes.com.au/rss.xml" />
+<outline text="Brisbane Times - Latest News" title="Brisbane Times - Latest News" type="rss" xmlUrl="https://www.brisbanetimes.com.au/rss/feed.xml" />
+<outline text="Independent Australia" title="Independent Australia" type="rss" xmlUrl="http://feeds.feedburner.com/IndependentAustralia" />
+<outline text="Business News - Latest Headlines" title="Business News - Latest Headlines" type="rss" xmlUrl="https://www.businessnews.com.au/rssfeed/latest.rss" />
+<outline text="InDaily" title="InDaily" type="rss" xmlUrl="https://indaily.com.au/feed/" />
+<outline text="The Mercury" title="The Mercury" type="rss" xmlUrl="https://www.themercury.com.au/rss" />
+<outline text="Crikey" title="Crikey" type="rss" xmlUrl="https://feeds.feedburner.com/com/rCTl" />
+<outline text="KUSA - News" title="KUSA - News" type="rss" xmlUrl="https://www.google.com/search?q=http://rssfeeds.9news.com/kusa/home%26amp%3Bx%3D1" />
+<outline text="Michael West" title="Michael West" type="rss" xmlUrl="https://www.michaelwest.com.au/feed/" />
+</outline>
+</body>
+</opml>

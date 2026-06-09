@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Indonesia Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Indonesia" title="Indonesia">
+<outline text="Republika Online RSS Feed" title="Republika Online RSS Feed" type="rss" xmlUrl="https://www.republika.co.id/rss/"/>
+<outline text="Tribunnews.com" title="Tribunnews.com" type="rss" xmlUrl="https://www.tribunnews.com/rss"/>
+<outline text="Merdeka.com" title="Merdeka.com" type="rss" xmlUrl="https://www.merdeka.com/feed/"/>
+<outline text="Suara.com" title="Suara.com" type="rss" xmlUrl="https://www.suara.com/rss"/>
+</outline>
+</body>
+</opml>

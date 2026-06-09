@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>UI / UX Feeds for Homepage</title>
+</head>
+<body>
+<outline text="UI / UX" title="UI / UX">
+<outline text="Articles on Smashing Magazine — For Web Designers And Developers" title="Articles on Smashing Magazine — For Web Designers And Developers" type="rss" xmlUrl="https://www.smashingmagazine.com/feed"/>
+<outline text="Boxes and Arrows" title="Boxes and Arrows" type="rss" xmlUrl="http://boxesandarrows.com/rss/"/>
+<outline text="Designer News Feed" title="Designer News Feed" type="rss" xmlUrl="https://www.designernews.co/?format=rss"/>
+<outline text="Inside Design" title="Inside Design" type="rss" xmlUrl="https://www.invisionapp.com/inside-design/feed"/>
+<outline text="JUST™ Creative" title="JUST™ Creative" type="rss" xmlUrl="https://feeds.feedburner.com/JustCreativeDesignBlog"/>
+<outline text="NN/g latest articles and announcements" title="NN/g latest articles and announcements" type="rss" xmlUrl="https://www.nngroup.com/feed/rss/"/>
+<outline text="UX Blog – UX Studio" title="UX Blog – UX Studio" type="rss" xmlUrl="https://uxstudioteam.com/ux-blog/feed/"/>
+<outline text="UX Collective - Medium" title="UX Collective - Medium" type="rss" xmlUrl="https://uxdesign.cc/feed"/>
+<outline text="UX Movement" title="UX Movement" type="rss" xmlUrl="https://uxmovement.com/feed/"/>
+<outline text="Usability Geek" title="Usability Geek" type="rss" xmlUrl="https://usabilitygeek.com/feed/"/>
+<outline text="User Experience" title="User Experience" type="rss" xmlUrl="https://www.reddit.com/r/userexperience/.rss"/>
+</outline>
+</body>
+</opml>

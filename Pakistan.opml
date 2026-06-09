@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Pakistan Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Pakistan" title="Pakistan">
+<outline text="The Express Tribune" title="The Express Tribune" type="rss" xmlUrl="https://tribune.com.pk/feed/home"/>
+<outline text="The Nation - Top Stories" title="The Nation - Top Stories" type="rss" xmlUrl="https://nation.com.pk/rss/top-stories"/>
+<outline text="قومی خبریں" title="قومی خبریں" type="rss" xmlUrl="https://jang.com.pk/rss/1/1"/>
+<outline text="The News International - Pakistan" title="The News International - Pakistan" type="rss" xmlUrl="https://www.thenews.com.pk/rss/1/1"/>
+<outline text="News Blog" title="News Blog" type="rss" xmlUrl="https://newsnblogs.com/feed/"/>
+<outline text="UrduPoint.com All Urdu News" title="UrduPoint.com All Urdu News" type="rss" xmlUrl="https://www.urdupoint.com/rss/urdupoint.rss"/>
+<outline text="ایکسپریس اردو" title="ایکسپریس اردو" type="rss" xmlUrl="https://www.express.pk/feed/"/>
+</outline>
+</body>
+</opml>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>EOS News Feeds</title>
+    </head>
+    <body>
+        <outline text="BBC" title="BBC" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/rss.xml"/>
+        <outline text="PIB (Press Release)" title="PIB (Press Release)" type="rss" xmlUrl="https://pib.gov.in/RssMain.aspx?ModId=6&amp;Lang=1&amp;Regid=3"/>
+        <outline text="PIB (Features)" title="PIB (Features)" type="rss" xmlUrl="https://pib.gov.in/RssMain.aspx?ModId=18&amp;Lang=1&amp;Regid=3"/>
+        <outline text="DW" title="DW" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
+        <outline text="BBC Science and Environment" title="BBC Science and Environment" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/science_and_environment/rss.xml"/>
+        <outline text="BBC India" title="BBC India" type="rss" xmlUrl="https://feeds.bbci.co.uk/news/world/asia/india/rss.xml"/>
+        <outline text="The Guardian India" title="The Guardian India" type="rss" xmlUrl="https://www.theguardian.com/world/india/rss"/>
+        <outline text="Times Of India" title="Times Of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeedstopstories.cms"/>
+        <outline text="The Hindu" title="The Hindu" type="rss" xmlUrl="https://www.thehindu.com/feeder/default.rss"/>
+        <outline text="Feedburner" title="Feedburner" type="rss" xmlUrl="https://feeds.feedburner.com/ndtvnews-top-stories"/>
+        <outline text="IndianExpress" title="IndianExpress" type="rss" xmlUrl="https://indianexpress.com/section/india/feed/"/>
+        <outline text="Indian Express Governance" title="Indian Express Governance" type="rss" xmlUrl="https://indianexpress.com/section/governance/feed/"/>
+        <outline text="IndianExpress (40 Years Ago)" title="IndianExpress (40 Years Ago)" type="rss" xmlUrl="https://indianexpress.com/section/opinion/40-years-ago/feed/"/>
+        <outline text="Editorials" title="Editorials" type="rss" xmlUrl="https://indianexpress.com/section/opinion/editorials/feed/"/>
+        <outline text="IndianExpress (education)" title="IndianExpress (education)" type="rss" xmlUrl="https://indianexpress.com/section/education/feed/"/>
+        <outline text="BBC News - India" title="BBC News - India" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/world/asia/india/rss.xml"/>
+        <outline text="SEBI RSS Feed" title="SEBI RSS Feed" type="rss" xmlUrl="https://www.sebi.gov.in/sebirss.xml"/>
+        <outline text="India Today | Latest Stories" title="India Today | Latest Stories" type="rss" xmlUrl="https://www.indiatoday.in/rss/home"/>
+        <outline text="Front Page | The Indian Express" title="Front Page | The Indian Express" type="rss" xmlUrl="http://indianexpress.com/print/front-page/feed/"/>
+        <outline text="Top World News- News18.com" title="Top World News- News18.com" type="rss" xmlUrl="https://www.news18.com/rss/world.xml"/>
+        <outline text="India News" title="India News" type="rss" xmlUrl="https://www.dnaindia.com/feeds/india.xml"/>
+        <outline text="Firstpost India Latest News" title="Firstpost India Latest News" type="rss" xmlUrl="https://www.firstpost.com/rss/india.xml"/>
+        <outline text="Home Page" title="Home Page" type="rss" xmlUrl="https://www.business-standard.com/rss/home_page_top_stories.rss"/>
+        <outline text="Free Press Journal" title="Free Press Journal" type="rss" xmlUrl="https://www.freepressjournal.in/stories.rss"/>
+        <outline text="Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business news | Politics | Technology news" title="Deccan Chronicle - Latest India news | Breaking news | Hyderabad News | World news | Business news | Politics | Technology news" type="rss" xmlUrl="https://www.deccanchronicle.com/rss_feed/"/>
+        <outline text="Moneycontrol Latest News" title="Moneycontrol Latest News" type="rss" xmlUrl="http://www.moneycontrol.com/rss/latestnews.xml"/>
+        <outline text="Economic Times" title="Economic Times" type="rss" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms"/>
+        <outline text="News, Latest News, Today&apos;s News Headlines, Breaking News, LIVE News - Oneindia" title="News, Latest News, Today&apos;s News Headlines, Breaking News, LIVE News - Oneindia" type="rss" xmlUrl="https://www.oneindia.com/rss/news-fb.xml"/>
+        <outline text="Scroll.in" title="Scroll.in" type="rss" xmlUrl="http://feeds.feedburner.com/ScrollinArticles.rss"/>
+        <outline text="Business Line - Home" title="Business Line - Home" type="rss" xmlUrl="https://www.thehindubusinessline.com/feeder/default.rss"/>
+        <outline text="TechGenyz" title="TechGenyz" type="rss" xmlUrl="http://feeds.feedburner.com/techgenyz"/>
+        <outline text="Top Stories News - Gujarat Samachar : World&apos;s Leading Gujarati Newspaper" title="Top Stories News - Gujarat Samachar : World&apos;s Leading Gujarati Newspaper" type="rss" xmlUrl="https://www.gujaratsamachar.com/rss/top-stories"/>
+        <outline text="Loksattaदेश-विदेश – Loksatta" title="Loksattaदेश-विदेश – Loksatta" type="rss" xmlUrl="https://www.loksatta.com/desh-videsh/feed/"/>
+        <outline text="OpIndia" title="OpIndia" type="rss" xmlUrl="https://feeds.feedburner.com/opindia"/>
+        <outline text="ThePrint" title="ThePrint" type="rss" xmlUrl="https://theprint.in/feed/"/>
+        <outline text="Swarajya" title="Swarajya" type="rss" xmlUrl="https://prod-qt-images.s3.amazonaws.com/production/swarajya/feed.xml"/>
+        <outline text="Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala" title="Latest And Breaking Hindi News Headlines, News In Hindi | अमर उजाला हिंदी न्यूज़ | - Amar Ujala" type="rss" xmlUrl="https://www.amarujala.com/rss/breaking-news.xml"/>
+        <outline text="JansattaJansatta" title="JansattaJansatta" type="rss" xmlUrl="https://www.jansatta.com/feed/"/>
+        <outline text="देश | दैनिक भास्कर" title="देश | दैनिक भास्कर" type="rss" xmlUrl="https://www.bhaskar.com/rss-feed/1061/"/>
+        <outline text="ઈન્ડિયા | દિવ્ય ભાસ્કર" title="ઈન્ડિયા | દિવ્ય ભાસ્કર" type="rss" xmlUrl="https://www.divyabhaskar.co.in/rss-feed/1037/"/>
+        <outline text="Live Hindustan Rss feed" title="Live Hindustan Rss feed" type="rss" xmlUrl="https://feed.livehindustan.com/rss/3127"/>
+    </body>
+</opml>

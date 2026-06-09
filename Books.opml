@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Books Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Books" title="Books">
+<outline text="A year of reading the world" title="A year of reading the world" type="rss" xmlUrl="https://ayearofreadingtheworld.com/feed/"/>
+<outline text="Aestas Book Blog" title="Aestas Book Blog" type="rss" xmlUrl="https://aestasbookblog.com/feed/"/>
+<outline text="BOOK RIOT" title="BOOK RIOT" type="rss" xmlUrl="https://bookriot.com/feed/"/>
+<outline text="Kirkus Reviews" title="Kirkus Reviews" type="rss" xmlUrl="https://www.kirkusreviews.com/feeds/rss/"/>
+<outline text="Page Array – NewInBooks" title="Page Array – NewInBooks" type="rss" xmlUrl="https://www.newinbooks.com/feed/"/>
+<outline text="So many books, so little time" title="So many books, so little time" type="rss" xmlUrl="https://reddit.com/r/books/.rss"/>
+<outline text="Wokeread" title="Wokeread" type="rss" xmlUrl="https://wokeread.home.blog/feed/"/>
+</outline>
+</body>
+</opml>

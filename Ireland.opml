@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Ireland Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Ireland" title="Ireland">
+<outline text="TheJournal.ie" title="TheJournal.ie" type="rss" xmlUrl="https://www.thejournal.ie/feed/"/>
+<outline text="All: BreakingNews.ie" title="All: BreakingNews.ie" type="rss" xmlUrl="https://feeds.breakingnews.ie/bntopstories"/>
+<outline text="The42" title="The42" type="rss" xmlUrl="https://www.the42.ie/feed/"/>
+<outline text="IrishExaminer.com" title="IrishExaminer.com" type="rss" xmlUrl="https://feeds.feedburner.com/ietopstories"/>
+<outline text="IrishCentral.com - Top Stories" title="IrishCentral.com - Top Stories" type="rss" xmlUrl="https://feeds.feedburner.com/IrishCentral"/>
+<outline text="Irish Mirror - Home" title="Irish Mirror - Home" type="rss" xmlUrl="https://www.irishmirror.ie/?service=rss"/>
+</outline>
+</body>
+</opml>

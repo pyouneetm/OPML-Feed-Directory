@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>History Feeds for Homepage</title>
+</head>
+<body>
+<outline text="History" title="History">
+<outline text="30 For 30 Podcasts" title="30 For 30 Podcasts" type="rss" xmlUrl="https://feeds.megaphone.fm/ESP5765452710"/>
+<outline text="Blog Feed" title="Blog Feed" type="rss" xmlUrl="https://americanhistory.si.edu/blog/feed"/>
+<outline text="Dan Carlin's Hardcore History" title="Dan Carlin's Hardcore History" type="rss" xmlUrl="https://feeds.feedburner.com/dancarlin/history?format=xml"/>
+<outline text="History in 28-minutes" title="History in 28-minutes" type="rss" xmlUrl="https://www.historyisnowmagazine.com/blog?format=RSS"/>
+<outline text="HistoryNet" title="HistoryNet" type="rss" xmlUrl="http://www.historynet.com/feed"/>
+<outline text="Lore" title="Lore" type="rss" xmlUrl="https://feeds.megaphone.fm/lore"/>
+<outline text="Revisionist History" title="Revisionist History" type="rss" xmlUrl="https://feeds.megaphone.fm/revisionisthistory"/>
+<outline text="The History Reader" title="The History Reader" type="rss" xmlUrl="https://www.thehistoryreader.com/feed/"/>
+<outline text="Throughline" title="Throughline" type="rss" xmlUrl="https://feeds.npr.org/510333/podcast.xml"/>
+<outline text="You Must Remember This" title="You Must Remember This" type="rss" xmlUrl="https://feeds.megaphone.fm/YMRT7068253588"/>
+<outline text="the memory palace" title="the memory palace" type="rss" xmlUrl="http://feeds.thememorypalace.us/thememorypalace"/>
+</outline>
+</body>
+</opml>

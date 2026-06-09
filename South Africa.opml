@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>South Africa Feeds for Homepage</title>
+</head>
+<body>
+<outline text="South Africa" title="South Africa">
+<outline text="SowetanLIVE" title="SowetanLIVE" type="rss" xmlUrl="https://www.sowetanlive.co.za/rss/?publication=sowetan-live"/>
+<outline text="TechCentral" title="TechCentral" type="rss" xmlUrl="https://techcentral.co.za/feed"/>
+<outline text="News24 Top Stories" title="News24 Top Stories" type="rss" xmlUrl="http://feeds.news24.com/articles/news24/TopStories/rss"/>
+<outline text="Eyewitness News | Latest News" title="Eyewitness News | Latest News" type="rss" xmlUrl="https://ewn.co.za/RSS%20Feeds/Latest%20News"/>
+<outline text="The Citizen" title="The Citizen" type="rss" xmlUrl="https://citizen.co.za/feed/"/>
+<outline text="Daily Maverick" title="Daily Maverick" type="rss" xmlUrl="https://www.dailymaverick.co.za/dmrss/"/>
+<outline text="Moneyweb" title="Moneyweb" type="rss" xmlUrl="https://www.moneyweb.co.za/feed/"/>
+<outline text="IOL section feed for News" title="IOL section feed for News" type="rss" xmlUrl="http://rss.iol.io/iol/news"/>
+<outline text="TimesLIVE" title="TimesLIVE" type="rss" xmlUrl="https://www.timeslive.co.za/rss/"/>
+<outline text="The South African" title="The South African" type="rss" xmlUrl="https://www.thesouthafrican.com/feed/"/>
+<outline text="Axios" title="Axios" type="rss" xmlUrl="https://api.axios.com/feed/"/>
+</outline>
+</body>
+</opml>

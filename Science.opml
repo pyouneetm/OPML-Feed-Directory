@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Science Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Science" title="Science">
+<outline text="60-Second Science" title="60-Second Science" type="rss" xmlUrl="http://rss.sciam.com/sciam/60secsciencepodcast"/>
+<outline text="BBC News - Science & Environment" title="BBC News - Science & Environment" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/science_and_environment/rss.xml"/>
+<outline text="Discovery" title="Discovery" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/p002w557.rss"/>
+<outline text="FlowingData" title="FlowingData" type="rss" xmlUrl="https://flowingdata.com/feed"/>
+<outline text="Gastropod" title="Gastropod" type="rss" xmlUrl="https://www.omnycontent.com/d/playlist/aaea4e69-af51-495e-afc9-a9760146922b/2a195077-f014-41d2-8313-ab190186b4c2/277bcd5c-0a05-4c14-8ba6-ab190186b4d5/podcast.rss"/>
+<outline text="Gizmodo" title="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/tag/science/rss"/>
+<outline text="Hidden Brain" title="Hidden Brain" type="rss" xmlUrl="https://feeds.npr.org/510308/podcast.xml"/>
+<outline text="Invisibilia" title="Invisibilia" type="rss" xmlUrl="https://feeds.npr.org/510307/podcast.xml"/>
+<outline text="Latest Science News -- ScienceDaily" title="Latest Science News -- ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/all.xml"/>
+<outline text="NYT > Science" title="NYT > Science" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Science.xml"/>
+<outline text="Nature" title="Nature" type="rss" xmlUrl="https://www.nature.com/nature.rss"/>
+<outline text="Phys.org - latest science and technology news stories" title="Phys.org - latest science and technology news stories" type="rss" xmlUrl="https://phys.org/rss-feed/"/>
+<outline text="Probably Science" title="Probably Science" type="rss" xmlUrl="https://probablyscience.libsyn.com/rss"/>
+<outline text="Radiolab" title="Radiolab" type="rss" xmlUrl="http://feeds.wnyc.org/radiolab"/>
+<outline text="Reddit Science" title="Reddit Science" type="rss" xmlUrl="https://reddit.com/r/science/.rss"/>
+<outline text="Sawbones: A Marital Tour of Misguided Medicine" title="Sawbones: A Marital Tour of Misguided Medicine" type="rss" xmlUrl="https://feeds.simplecast.com/y1LF_sn2"/>
+<outline text="Science Latest" title="Science Latest" type="rss" xmlUrl="https://www.wired.com/feed/category/science/latest/rss"/>
+<outline text="Science Vs" title="Science Vs" type="rss" xmlUrl="http://feeds.gimletmedia.com/ScienceVs"/>
+<outline text="Science-Based Medicine" title="Science-Based Medicine" type="rss" xmlUrl="https://sciencebasedmedicine.org/feed/"/>
+<outline text="Scientific American Content: Global" title="Scientific American Content: Global" type="rss" xmlUrl="http://rss.sciam.com/ScientificAmerican-Global"/>
+<outline text="Shirtloads of Science" title="Shirtloads of Science" type="rss" xmlUrl="https://shirtloadsofscience.libsyn.com/rss"/>
+<outline text="TED Talks Daily (SD video)" title="TED Talks Daily (SD video)" type="rss" xmlUrl="https://pa.tedcdn.com/feeds/talks.rss"/>
+<outline text="The Infinite Monkey Cage" title="The Infinite Monkey Cage" type="rss" xmlUrl="https://podcasts.files.bbci.co.uk/b00snr0w.rss"/>
+<outline text="This Week in Science – The Kickass Science Podcast" title="This Week in Science – The Kickass Science Podcast" type="rss" xmlUrl="http://www.twis.org/feed/"/>
+</outline>
+</body>
+</opml>

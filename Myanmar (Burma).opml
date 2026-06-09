@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Myanmar (Burma) Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Myanmar (Burma)" title="Myanmar (Burma)">
+<outline text="Myanmar Gazette News Media Forum Network" title="Myanmar Gazette News Media Forum Network" type="rss" xmlUrl="http://myanmargazette.net/feed"/>
+<outline text="DVB Multimedia Group" title="DVB Multimedia Group" type="rss" xmlUrl="http://www.dvb.no/feed"/>
+<outline text="THIT HTOO LWIN (Daily News)" title="THIT HTOO LWIN (Daily News)" type="rss" xmlUrl="http://www.thithtoolwin.com/feeds/posts/default"/>
+</outline>
+</body>
+</opml>

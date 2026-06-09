@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+
+<opml version="1.0">
+<head>
+<title>Spain Feeds for Homepage</title>
+</head>
+<body>
+<outline text="Spain" title="Spain">
+<outline text="The Local" title="The Local" type="rss" xmlUrl="https://feeds.thelocal.com/rss/es"/>
+<outline text="EL PAÍS: el periódico global" title="EL PAÍS: el periódico global" type="rss" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"/>
+<outline text="España" title="España" type="rss" xmlUrl="https://rss.elconfidencial.com/espana/"/>
+<outline text="ElDiario.es - ElDiario.es" title="ElDiario.es - ElDiario.es" type="rss" xmlUrl="https://www.eldiario.es/rss/"/>
+<outline text="Portada // expansion" title="Portada // expansion" type="rss" xmlUrl="https://e00-expansion.uecdn.es/rss/portada.xml"/>
+<outline text="El Periódico - portada" title="El Periódico - portada" type="rss" xmlUrl="https://www.elperiodico.com/es/rss/rss_portada.xml"/>
+<outline text="huffingtonpost.es" title="huffingtonpost.es" type="rss" xmlUrl="https://www.huffingtonpost.es/feeds/index.xml"/>
+<outline text="Euro Weekly News Spain" title="Euro Weekly News Spain" type="rss" xmlUrl="https://www.euroweeklynews.com/feed/"/>
+<outline text="Agencia EFE | www.efe.com | English edition" title="Agencia EFE | www.efe.com | English edition" type="rss" xmlUrl="https://www.efe.com/efe/english/4/rss"/>
+</outline>
+</body>
+</opml>
