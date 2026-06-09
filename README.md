@@ -1,31 +1,45 @@
-# Global OPML Feed Directory
+# Opml Feed Directory
 
-Welcome to the **Global OPML Feed Directory**, a highly curated collection of RSS and Atom feeds tailored to different countries, industries, and interests. These `.opml` files are designed to help you quickly set up a rich information diet in any RSS reader.
+Welcome to the **Opml Feed Directory**, a highly curated collection of RSS and Atom feeds tailored to different countries, industries, and interests. These `.opml` files are designed to help you quickly set up a rich information diet in any RSS reader.
 
 ## 🌍 Explore Feeds by Region
 
-Our collection includes hand-picked localized feeds spanning news, culture, and tech from around the globe:
+Our collection includes hand picked localized feeds spanning news, culture, and tech from around the globe:
 
-- **Americas**: Brazil, Canada
-- **Europe**: France, Germany, Ireland, Poland, Spain, Ukraine, United Kingdom
-- **Asia-Pacific**: Australia, Bangladesh, Hong Kong SAR, Indonesia, Japan, Myanmar (Burma), Pakistan, Philippines, India
-- **Middle East & Africa**: Iran, Nigeria, South Africa
+**Americas**
+Brazil, Canada
+
+**Europe**
+France, Germany, Ireland, Poland, Spain, Ukraine, United Kingdom
+
+**Asia Pacific**
+Australia, Bangladesh, Hong Kong SAR, Indonesia, Japan, Myanmar (Burma), Pakistan, Philippines, India
+
+**Middle East and Africa**
+Iran, Nigeria, South Africa
 
 ## 💡 Explore Feeds by Topic
 
 In addition to geography, you can import highly curated topics:
 
-- 📚 **Books**: Keep up with literature, book reviews, and author updates.
-- 🏛️ **History**: Dive into the past with historical journals and blogs.
-- 🔬 **Science**: Stay updated on breakthroughs, research, and scientific discoveries.
-- 🎨 **UI - UX**: Essential reading for designers and product thinkers.
+📚 **Books**
+Keep up with literature, book reviews, and author updates.
+
+🏛️ **History**
+Dive into the past with historical journals and blogs.
+
+🔬 **Science**
+Stay updated on breakthroughs, research, and scientific discoveries.
+
+🎨 **UI UX**
+Essential reading for designers and product thinkers.
 
 ## 🚀 How to Use
 
-1. **Download** the `.opml` file of your choice.
-2. **Open** your favorite RSS reader.
-3. **Import** the OPML file through the app's settings.
-4. Enjoy a ready-to-read stream of high-quality content!
+**1. Download** the `.opml` file of your choice.
+**2. Open** your favorite RSS reader.
+**3. Import** the OPML file through the app's settings.
+**4. Enjoy** a ready to read stream of high quality content!
 
 ---
 
