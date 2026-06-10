@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Colombia RSS Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:18:31 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="El Tiempo" type="rss" xmlUrl="https://www.eltiempo.com/rss"/>
+  </body>
+</opml>

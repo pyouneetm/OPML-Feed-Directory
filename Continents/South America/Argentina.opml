@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Argentina Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:00 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Argentina Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/AR?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Clarín (ES)" type="rss" xmlUrl="https://www.clarin.com/rss/lo-ultimo/"/>
+    <outline text="Buenos Aires Times" type="rss" xmlUrl="https://www.batimes.com.ar/feed"/>
+  </body>
+</opml>

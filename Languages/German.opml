@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>German Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:16 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="DW Deutsch" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-de-all"/>
+    <outline text="Nachrichten (Google)" type="rss" xmlUrl="https://news.google.com/rss?hl=de&amp;gl=DE&amp;ceid=DE:de"/>
+    <outline text="Der Spiegel" type="rss" xmlUrl="https://www.spiegel.de/schlagzeilen/index.rss"/>
+  </body>
+</opml>

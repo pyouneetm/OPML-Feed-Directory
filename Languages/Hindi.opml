@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Hindi Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:18 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="मुख्य समाचार (Google)" type="rss" xmlUrl="https://news.google.com/rss?hl=hi&amp;gl=IN&amp;ceid=IN:hi"/>
+    <outline text="Dainik Jagran" type="rss" xmlUrl="https://rss.jagran.com/rss/news/national.xml"/>
+  </body>
+</opml>

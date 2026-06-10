@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>French Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:16 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Actualités (Google)" type="rss" xmlUrl="https://news.google.com/rss?hl=fr&amp;gl=FR&amp;ceid=FR:fr"/>
+    <outline text="Le Monde" type="rss" xmlUrl="https://www.lemonde.fr/rss/une.xml"/>
+    <outline text="Le Figaro" type="rss" xmlUrl="https://www.lefigaro.fr/rss/figaro_actualites.xml"/>
+    <outline text="France 24" type="rss" xmlUrl="https://www.france24.com/fr/rss"/>
+  </body>
+</opml>

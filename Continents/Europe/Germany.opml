@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Germany Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:41 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Germany Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/DE?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Deutsche Welle (EN)" type="rss" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
+    <outline text="Der Spiegel (EN)" type="rss" xmlUrl="https://www.spiegel.de/international/index.rss"/>
+    <outline text="FAZ (DE)" type="rss" xmlUrl="https://www.faz.net/rss/aktuell/"/>
+  </body>
+</opml>

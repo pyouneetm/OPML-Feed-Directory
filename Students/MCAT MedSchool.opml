@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>MCAT MedSchool Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:28:14 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="MCAT Updates" type="rss" xmlUrl="https://news.google.com/rss/search?q=MCAT+exam+AAMC&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="AAMC News" type="rss" xmlUrl="https://news.google.com/rss/search?q=AAMC+medical+school&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Premed Years Podcast Blog" type="rss" xmlUrl="https://medicalschoolhq.net/feed/"/>
+  </body>
+</opml>

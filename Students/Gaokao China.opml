@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Gaokao China Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:28:12 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="SCMP - Education" type="rss" xmlUrl="https://www.scmp.com/rss/318218/feed"/>
+    <outline text="Gaokao News (Chinese)" type="rss" xmlUrl="https://news.google.com/rss/search?q=%E9%AB%98%E8%80%83&amp;hl=zh-CN&amp;gl=CN&amp;ceid=CN:zh-Hans"/>
+    <outline text="Gaokao News (English)" type="rss" xmlUrl="https://news.google.com/rss/search?q=Gaokao+exam+China&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="China Daily - Education" type="rss" xmlUrl="https://news.google.com/rss/search?q=China+Daily+Education&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+  </body>
+</opml>

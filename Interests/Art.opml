@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Art Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 21:06:28 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Hyperallergic" type="rss" xmlUrl="https://hyperallergic.com/feed/"/>
+    <outline text="Art Top News (Google)" type="rss" xmlUrl="https://news.google.com/rss/search?q=Art+News&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Booooooom" type="rss" xmlUrl="https://www.booooooom.com/feed/"/>
+    <outline text="Artforum" type="rss" xmlUrl="https://www.artforum.com/feed/"/>
+    <outline text="Juxtapoz Magazine" type="rss" xmlUrl="https://www.juxtapoz.com/news/?format=feed&amp;type=rss"/>
+    <outline text="ARTnews" type="rss" xmlUrl="https://www.artnews.com/feed/"/>
+    <outline text="Colossal" type="rss" xmlUrl="https://www.thisiscolossal.com/feed/"/>
+    <outline text="The Art Newspaper" type="rss" xmlUrl="https://www.theartnewspaper.com/rss.xml"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Singapore RSS Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:18:31 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="CNA - Latest News" type="rss" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"/>
+    <outline text="The Straits Times" type="rss" xmlUrl="https://www.straitstimes.com/news/asia/rss.xml"/>
+    <outline text="Mothership" type="rss" xmlUrl="https://mothership.sg/feed/"/>
+  </body>
+</opml>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Mexico Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:36 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Mexico News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/MX?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Mexico News Daily" type="rss" xmlUrl="https://mexiconewsdaily.com/feed/"/>
+  </body>
+</opml>

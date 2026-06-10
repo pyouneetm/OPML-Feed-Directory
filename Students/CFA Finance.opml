@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>CFA Finance Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:41:48 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Financial Times" type="rss" xmlUrl="https://www.ft.com/?format=rss"/>
+    <outline text="CNBC Finance" type="rss" xmlUrl="https://www.cnbc.com/id/10000664/device/rss/rss.html"/>
+    <outline text="Bloomberg Markets" type="rss" xmlUrl="https://feeds.bloomberg.com/markets/news.rss"/>
+    <outline text="Bloomberg Economics" type="rss" xmlUrl="https://feeds.bloomberg.com/economics/news.rss"/>
+    <outline text="300 Hours (CFA Blog)" type="rss" xmlUrl="https://300hours.com/feed/"/>
+    <outline text="Harvard Business Review" type="rss" xmlUrl="http://feeds.hbr.org/harvardbusiness"/>
+  </body>
+</opml>

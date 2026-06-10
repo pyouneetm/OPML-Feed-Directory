@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Southeast Asia Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:26 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Southeast Asia News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/Southeast%20Asia?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="CNA - Singapore" type="rss" xmlUrl="https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"/>
+    <outline text="Bangkok Post" type="rss" xmlUrl="https://www.bangkokpost.com/rss/data/topstories.xml"/>
+  </body>
+</opml>

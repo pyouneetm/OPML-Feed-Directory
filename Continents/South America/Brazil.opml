@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Brazil Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:58 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Brazil Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/BR?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Rio Times" type="rss" xmlUrl="https://www.riotimesonline.com/feed/"/>
+  </body>
+</opml>

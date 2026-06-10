@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Arabic RSS Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:18:31 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Al Jazeera Arabic" type="rss" xmlUrl="https://www.aljazeera.net/aljazeerarss/a7c186be-1baa-4ce4-8d6c-b2c8de9de981/73d0e1b4-532f-45ef-b135-bfdff8b8cab9"/>
+    <outline text="BBC Arabic" type="rss" xmlUrl="http://feeds.bbci.co.uk/arabic/rss.xml"/>
+    <outline text="Sky News Arabia" type="rss" xmlUrl="https://www.skynewsarabia.com/rss/latest-news"/>
+  </body>
+</opml>

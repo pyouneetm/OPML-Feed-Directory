@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Pan Africa Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:53 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Africanews" type="rss" xmlUrl="https://www.africanews.com/feed/"/>
+    <outline text="AllAfrica" type="rss" xmlUrl="https://allafrica.com/tools/headlines/rdf/latest/headlines.rdf"/>
+  </body>
+</opml>

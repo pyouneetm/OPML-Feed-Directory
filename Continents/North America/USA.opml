@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>USA Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:34 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="US Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/topic/NATION?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="NPR News" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml"/>
+    <outline text="Fox News" type="rss" xmlUrl="https://moxie.foxnews.com/google-publisher/latest.xml"/>
+    <outline text="CNN Top Stories" type="rss" xmlUrl="http://rss.cnn.com/rss/cnn_topstories.rss"/>
+    <outline text="Wall Street Journal" type="rss" xmlUrl="https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"/>
+    <outline text="CBS News" type="rss" xmlUrl="https://www.cbsnews.com/latest/rss/main"/>
+    <outline text="NYT Top Stories" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+  </body>
+</opml>

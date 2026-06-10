@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Italy Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:44 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Italy Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/IT?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+  </body>
+</opml>

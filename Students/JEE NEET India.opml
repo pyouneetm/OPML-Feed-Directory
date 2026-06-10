@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>JEE NEET India Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:41:45 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Indian Express - Education" type="rss" xmlUrl="https://indianexpress.com/section/education/feed/"/>
+    <outline text="Indian Express - Science" type="rss" xmlUrl="https://indianexpress.com/section/technology/science/feed/"/>
+    <outline text="Nature - Science Journal" type="rss" xmlUrl="https://www.nature.com/nature.rss"/>
+    <outline text="ScienceDaily" type="rss" xmlUrl="https://www.sciencedaily.com/rss/all.xml"/>
+    <outline text="Embibe Exams" type="rss" xmlUrl="https://www.embibe.com/exams/feed/"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Nigeria Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:52 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Nigeria Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/NG?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Premium Times" type="rss" xmlUrl="https://www.premiumtimesng.com/feed"/>
+    <outline text="Vanguard" type="rss" xmlUrl="https://www.vanguardngr.com/feed/"/>
+  </body>
+</opml>

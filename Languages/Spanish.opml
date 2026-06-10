@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Spanish Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:15 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Noticias (Google)" type="rss" xmlUrl="https://news.google.com/rss?hl=es-419&amp;gl=US&amp;ceid=US:es-419"/>
+    <outline text="BBC Mundo" type="rss" xmlUrl="http://www.bbc.co.uk/mundo/temas/america_latina/index.xml"/>
+    <outline text="El País (Spain)" type="rss" xmlUrl="https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>China Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:20 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="China Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/CN?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="South China Morning Post" type="rss" xmlUrl="https://www.scmp.com/rss/91/feed"/>
+    <outline text="Xinhua News" type="rss" xmlUrl="http://www.xinhuanet.com/english/rss/worldrss.xml"/>
+  </body>
+</opml>

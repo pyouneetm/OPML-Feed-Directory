@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>South Africa Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:50 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="South Africa Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/ZA?hl=en-ZA&amp;gl=ZA&amp;ceid=ZA:en"/>
+    <outline text="IOL" type="rss" xmlUrl="https://www.iol.co.za/rss/news"/>
+  </body>
+</opml>

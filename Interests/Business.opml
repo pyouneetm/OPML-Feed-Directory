@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Business Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:07 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Business Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Fortune" type="rss" xmlUrl="https://fortune.com/feed/"/>
+    <outline text="Bloomberg" type="rss" xmlUrl="https://feeds.bloomberg.com/markets/news.rss"/>
+    <outline text="Harvard Business Review" type="rss" xmlUrl="http://feeds.hbr.org/harvardbusiness"/>
+  </body>
+</opml>

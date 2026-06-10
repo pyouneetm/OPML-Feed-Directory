@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>SAT ACT CollegePrep Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:41:58 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="BBC News World" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+    <outline text="PrepScholar Blog" type="rss" xmlUrl="https://blog.prepscholar.com/rss.xml"/>
+    <outline text="NPR News" type="rss" xmlUrl="https://feeds.npr.org/1001/rss.xml"/>
+    <outline text="NYT US News" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/US.xml"/>
+  </body>
+</opml>

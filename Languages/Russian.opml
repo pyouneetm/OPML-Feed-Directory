@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Russian RSS Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:18:31 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="RT Russian" type="rss" xmlUrl="https://russian.rt.com/rss"/>
+    <outline text="RIA Novosti" type="rss" xmlUrl="https://ria.ru/export/rss2/archive/index.xml"/>
+    <outline text="Lenta.ru" type="rss" xmlUrl="https://lenta.ru/rss"/>
+  </body>
+</opml>

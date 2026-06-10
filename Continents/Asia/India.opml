@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>India Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:25 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="The Times of India" type="rss" xmlUrl="https://timesofindia.indiatimes.com/rssfeedstopstories.cms"/>
+    <outline text="India Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/IN?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="The Hindu" type="rss" xmlUrl="https://www.thehindu.com/feeder/default.rss"/>
+    <outline text="The Indian Express" type="rss" xmlUrl="https://indianexpress.com/feed/"/>
+    <outline text="Hindustan Times" type="rss" xmlUrl="https://www.hindustantimes.com/feeds/rss/india-news/rssfeed.xml"/>
+    <outline text="The Economic Times" type="rss" xmlUrl="https://economictimes.indiatimes.com/rssfeedsdefault.cms"/>
+    <outline text="India Today" type="rss" xmlUrl="https://www.indiatoday.in/rss/home"/>
+    <outline text="Livemint" type="rss" xmlUrl="https://www.livemint.com/rss/news"/>
+    <outline text="News18" type="rss" xmlUrl="https://www.news18.com/rss/india.xml"/>
+    <outline text="The Wire" type="rss" xmlUrl="https://thewire.in/rss"/>
+    <outline text="The Print" type="rss" xmlUrl="https://theprint.in/feed/"/>
+    <outline text="NDTV Top Stories" type="rss" xmlUrl="https://feeds.feedburner.com/ndtvnews-top-stories"/>
+  </body>
+</opml>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>UPSC Civil Services Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:41:40 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Indian Express - UPSC Essentials" type="rss" xmlUrl="https://indianexpress.com/section/upsc-current-affairs/upsc-essentials/feed/"/>
+    <outline text="Indian Express - India" type="rss" xmlUrl="https://indianexpress.com/section/india/feed/"/>
+    <outline text="Indian Express - Art &amp; Culture" type="rss" xmlUrl="https://indianexpress.com/section/lifestyle/art-and-culture/feed/"/>
+    <outline text="The Hindu - Editorials" type="rss" xmlUrl="https://www.thehindu.com/opinion/editorial/feeder/default.rss"/>
+    <outline text="Indian Express - Political Pulse" type="rss" xmlUrl="https://indianexpress.com/section/political-pulse/feed/"/>
+    <outline text="Indian Express - 40 Years Ago" type="rss" xmlUrl="https://indianexpress.com/section/opinion/40-years-ago/feed/"/>
+    <outline text="The Hindu - National" type="rss" xmlUrl="https://www.thehindu.com/news/national/feeder/default.rss"/>
+    <outline text="The Hindu - Sci-Tech" type="rss" xmlUrl="https://www.thehindu.com/sci-tech/feeder/default.rss"/>
+    <outline text="Indian Express - Education" type="rss" xmlUrl="https://indianexpress.com/section/education/feed/"/>
+    <outline text="Indian Express - Editorials" type="rss" xmlUrl="https://indianexpress.com/section/opinion/editorials/feed/"/>
+    <outline text="Insight on India" type="rss" xmlUrl="https://www.insightsonindia.com/feed/"/>
+    <outline text="IAS Baba - Daily Current Affairs" type="rss" xmlUrl="https://iasbaba.com/feed/"/>
+    <outline text="Drishti IAS - Current Affairs" type="rss" xmlUrl="https://www.drishtiias.com/rss/english/current-affairs-news-analysis-editorials.xml"/>
+  </body>
+</opml>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Bar Exam Law Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:28:18 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Bar Exam Updates" type="rss" xmlUrl="https://news.google.com/rss/search?q=Bar+Exam+NCBE&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="National Conference of Bar Examiners (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/search?q=NCBE+Bar+Exam&amp;hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="JD Journal" type="rss" xmlUrl="https://www.jdjournal.com/feed/"/>
+  </body>
+</opml>

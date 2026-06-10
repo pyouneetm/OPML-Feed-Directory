@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Technology Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:03 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Tech Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/topic/TECHNOLOGY?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Wired" type="rss" xmlUrl="https://www.wired.com/feed/rss"/>
+    <outline text="TechCrunch" type="rss" xmlUrl="https://techcrunch.com/feed/"/>
+    <outline text="The Verge" type="rss" xmlUrl="https://www.theverge.com/rss/index.xml"/>
+    <outline text="Engadget" type="rss" xmlUrl="https://www.engadget.com/rss.xml"/>
+    <outline text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/rss"/>
+    <outline text="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index"/>
+    <outline text="Hacker News" type="rss" xmlUrl="https://hnrss.org/frontpage"/>
+  </body>
+</opml>

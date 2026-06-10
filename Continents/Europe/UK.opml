@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>UK Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:37 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="UK Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/GB?hl=en-GB&amp;gl=GB&amp;ceid=GB:en"/>
+    <outline text="BBC News" type="rss" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml"/>
+    <outline text="Sky News" type="rss" xmlUrl="https://feeds.skynews.com/feeds/rss/home.xml"/>
+    <outline text="The Independent" type="rss" xmlUrl="https://www.independent.co.uk/news/uk/rss"/>
+  </body>
+</opml>

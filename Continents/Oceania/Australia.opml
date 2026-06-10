@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Australia Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:47 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Australia Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/AU?hl=en-AU&amp;gl=AU&amp;ceid=AU:en"/>
+    <outline text="Sydney Morning Herald" type="rss" xmlUrl="https://www.smh.com.au/rss/feed.xml"/>
+    <outline text="The Age" type="rss" xmlUrl="https://www.theage.com.au/rss/feed.xml"/>
+    <outline text="ABC News Australia" type="rss" xmlUrl="https://www.abc.net.au/news/feed/51120/rss.xml"/>
+  </body>
+</opml>

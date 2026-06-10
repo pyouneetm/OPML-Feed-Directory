@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>GRE GMAT GradSchool Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:41:55 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Harvard Business Review" type="rss" xmlUrl="http://feeds.hbr.org/harvardbusiness"/>
+    <outline text="Arts &amp; Letters Daily" type="rss" xmlUrl="https://aldaily.com/feed/"/>
+    <outline text="Poets &amp; Quants (MBA)" type="rss" xmlUrl="https://poetsandquants.com/feed/"/>
+    <outline text="NYT Editorials" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <outline text="Manhattan Prep GMAT" type="rss" xmlUrl="https://www.manhattanprep.com/gmat/blog/feed/"/>
+    <outline text="Magoosh GRE Blog" type="rss" xmlUrl="https://magoosh.com/gre/feed/"/>
+  </body>
+</opml>

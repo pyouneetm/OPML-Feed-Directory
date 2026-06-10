@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Russia Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:46 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Russia Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/RU?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="The Moscow Times" type="rss" xmlUrl="https://www.themoscowtimes.com/rss/news"/>
+    <outline text="RT News" type="rss" xmlUrl="https://www.rt.com/rss/news/"/>
+    <outline text="TASS" type="rss" xmlUrl="https://tass.com/rss/v2.xml"/>
+  </body>
+</opml>

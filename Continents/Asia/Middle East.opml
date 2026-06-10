@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Middle East Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:27 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Middle East News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/Middle%20East?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Al Jazeera English" type="rss" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
+    <outline text="Arab News (Saudi Arabia)" type="rss" xmlUrl="https://www.arabnews.com/rss.xml"/>
+  </body>
+</opml>

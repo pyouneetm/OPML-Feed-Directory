@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>LSAT LawSchool Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:41:51 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Law.com" type="rss" xmlUrl="https://www.law.com/rss/"/>
+    <outline text="Legal Profession Blog" type="rss" xmlUrl="https://lawprofessors.typepad.com/legal_profession/rss.xml"/>
+    <outline text="SCOTUSblog" type="rss" xmlUrl="https://www.scotusblog.com/feed/"/>
+    <outline text="Jurist Legal News" type="rss" xmlUrl="https://www.jurist.org/feed/"/>
+    <outline text="NYT Politics" type="rss" xmlUrl="https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml"/>
+  </body>
+</opml>

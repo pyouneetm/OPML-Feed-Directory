@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Entertainment Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:12 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Entertainment News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/topic/ENTERTAINMENT?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+    <outline text="Deadline" type="rss" xmlUrl="https://deadline.com/feed/"/>
+    <outline text="Rolling Stone" type="rss" xmlUrl="https://www.rollingstone.com/feed/"/>
+    <outline text="Hollywood Reporter" type="rss" xmlUrl="https://www.hollywoodreporter.com/feed/"/>
+    <outline text="Variety" type="rss" xmlUrl="https://variety.com/feed/"/>
+  </body>
+</opml>

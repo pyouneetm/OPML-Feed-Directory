@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Health Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:13 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Health Top News" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/topic/HEALTH?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
+  </body>
+</opml>

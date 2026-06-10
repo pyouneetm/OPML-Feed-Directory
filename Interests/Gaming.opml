@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Gaming Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:24:08 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="IGN" type="rss" xmlUrl="https://feeds.ign.com/ign/news"/>
+    <outline text="Kotaku" type="rss" xmlUrl="https://kotaku.com/rss"/>
+    <outline text="Eurogamer" type="rss" xmlUrl="https://www.eurogamer.net/?format=rss"/>
+    <outline text="PC Gamer" type="rss" xmlUrl="https://www.pcgamer.com/rss/"/>
+  </body>
+</opml>

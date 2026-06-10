@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Canada Feeds</title>
+    <dateCreated>Wed, 10 Jun 2026 20:23:35 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Canada Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/CA?hl=en-CA&amp;gl=CA&amp;ceid=CA:en"/>
+    <outline text="Global News" type="rss" xmlUrl="https://globalnews.ca/feed/"/>
+    <outline text="National Post" type="rss" xmlUrl="https://nationalpost.com/feed"/>
+    <outline text="CBC Top Stories" type="rss" xmlUrl="https://www.cbc.ca/cmlink/rss-topstories"/>
+  </body>
+</opml>
