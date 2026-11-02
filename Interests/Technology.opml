@@ -13,5 +13,6 @@
     <outline text="Gizmodo" type="rss" xmlUrl="https://gizmodo.com/rss"/>
     <outline text="Ars Technica" type="rss" xmlUrl="https://feeds.arstechnica.com/arstechnica/index"/>
     <outline text="Hacker News" type="rss" xmlUrl="https://hnrss.org/frontpage"/>
+    <outline text="Joho no Todai (English) — Technology News" type="rss" xmlUrl="https://joho-todai.com/en/rss/"/>
   </body>
 </opml>

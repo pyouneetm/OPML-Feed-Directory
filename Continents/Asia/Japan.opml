@@ -8,5 +8,6 @@
     <outline text="Japan Top News (Aggregated)" type="rss" xmlUrl="https://news.google.com/rss/headlines/section/geo/JP?hl=en-US&amp;gl=US&amp;ceid=US:en"/>
     <outline text="Japan Today" type="rss" xmlUrl="https://japantoday.com/feed"/>
     <outline text="Japan Times - News" type="rss" xmlUrl="https://www.japantimes.co.jp/feed/"/>
+    <outline text="Joho no Todai (Japanese) — Technology News" type="rss" xmlUrl="https://joho-todai.com/rss/"/>
   </body>
 </opml>
